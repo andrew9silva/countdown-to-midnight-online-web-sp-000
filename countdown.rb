@@ -5,5 +5,6 @@ def countdown
   while counter >0
     puts "#{counter} SECONDS!"
   counter -= 1
+end
 
 end
